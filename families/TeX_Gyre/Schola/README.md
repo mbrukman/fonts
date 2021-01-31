@@ -1,5 +1,10 @@
 # TeX Gyre Schola
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/TeX_Gyre_Schola.svg"
+     width="250"
+     align="right"
+     alt="TeX Gyre Schola preview">
+
 The [TeX Gyre project][tg-project-tgs] describes Schola as:
 
 > TeX Gyre Schola is based on the URW Century Schoolbook L kindly released by
@@ -20,6 +25,9 @@ describes Schola as:
 > a Cyrillic version and small caps, it is perhaps the most complete
 > open-source digitisation of the Century family.
 
+_Note: the TeX Gyre Schola preview image above is in the [public
+domain][tgs-preview-wikimedia]._
+
 ## Preview
 
 See a preview of TeX Gyre Schola via:
@@ -33,6 +41,7 @@ See [TeX Gyre license][tg-license] for more information.
 
 [tg-project-tgs]: http://www.gust.org.pl/projects/e-foundry/tex-gyre/schola
 [century-schoolbook-wikipedia]: https://en.wikipedia.org/wiki/Century_type_family#Century_Schoolbook
+[tgs-preview-wikimedia]: https://en.wikipedia.org/wiki/File:TeX_Gyre_Schola.svg
 [tg-schola-preview]: https://tug.org/FontCatalogue/texgyreschola/
 [local-preview]: 2.005/README.md
 [tg-license]: ../README.md#license
