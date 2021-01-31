@@ -4,6 +4,11 @@ A curated collection of interesting and useful font families, along with
 relevant references. Fonts which are available with liberal licenses for
 distribution are included in this repo.
 
+## Font families
+
+* [M+](families/Mplus)
+* [TeX Gyre](families/TeX_Gyre)
+
 ## Motivation
 
 A number of font-hosting sites tend to be imprecise about the license for the
@@ -24,6 +29,26 @@ original source.
 This project aims to fix a number of these issues by providing all relevant
 source and licensing information, as well as availability of these fonts on
 other sites.
+
+## License stats
+
+<!--
+  TODO(mbrukman): record font metadata in machine-readable format and automate
+  the update of this table
+-->
+
+Here's a manual snapshot of license counts for the font families that are
+currently included in the [`third_party`](third_party) directory:
+
+| License                     | Count |
+|-----------------------------|-------|
+| GUST Font License (GFL)     |   1   |
+| SIL Open Font License (OFL) |   1   |
+| Custom                      |   1   |
+
+Note that this does not include all font families that are discussed or
+mentioned in this repository, just the font families whose font files are
+themselves directly provided in this repository.
 
 ## License
 
