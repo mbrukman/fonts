@@ -27,4 +27,18 @@ other sites.
 
 ## License
 
-Apache 2.0; see [`LICENSE`](LICENSE) for details.
+This project is under multiple licenses:
+
+* [Apache 2.0](APACHE-2.0.txt) for code
+* [Creative Commons Attribution 4.0 International](CC-BY-4.0.txt) for
+  documentation and everything else
+
+Note that these licenses do not apply to any content that is:
+
+* within the [`third_party`](third_party) directory tree, where each project
+  has their own license provided in each directory
+* quoted from another project, e.g., a project author's description of
+  their project, which is under the license of that third-party project
+
+For clarity, [`LICENSE.txt`](LICENSE.txt) includes both licenses in their
+entirety and these details.
